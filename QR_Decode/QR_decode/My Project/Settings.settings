@@ -1,0 +1,69 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="cmis_connection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://ged:8080/alfresco/api/-default-/public/cmis/versions/1.1/atom</Value>
+    </Setting>
+    <Setting Name="cmis_user" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ged</Value>
+    </Setting>
+    <Setting Name="cmis_pwd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">heinen</Value>
+    </Setting>
+    <Setting Name="pdf_in" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\QRCODE\scan_in</Value>
+    </Setting>
+    <Setting Name="pdf_error" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\QRCODE\pdf_error</Value>
+    </Setting>
+    <Setting Name="log_file" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\QRCODE\scan_log.txt</Value>
+    </Setting>
+    <Setting Name="img_temp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\QRCODE\test.bmp</Value>
+    </Setting>
+    <Setting Name="pdf_ok" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\QRCODE\pdf_ok</Value>
+    </Setting>
+    <Setting Name="xml_file" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\srv08\Share\@Fichiers_XML\Liste_categorie_QR_general.xml</Value>
+    </Setting>
+    <Setting Name="em_martha" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mbr@heinen.eu</Value>
+    </Setting>
+    <Setting Name="em_cuisine" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sec@heinen.eu</Value>
+    </Setting>
+    <Setting Name="em_bet" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mrx@heinen.eu;fbs@heinen.eu</Value>
+    </Setting>
+    <Setting Name="em_sec" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sec@heinen.eu</Value>
+    </Setting>
+    <Setting Name="em_f111" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mrx@heinen.eu</Value>
+    </Setting>
+    <Setting Name="em_inconnu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">fbs@heinen.eu</Value>
+    </Setting>
+    <Setting Name="pdf_temp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\QRCODE\pdf_tmp</Value>
+    </Setting>
+    <Setting Name="em_erreur" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mrx@heinen.eu;fbs@heinen.eu</Value>
+    </Setting>
+    <Setting Name="cmis_conn_10" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://ged:8080/alfresco/api/-default-/public/cmis/versions/1.0/atom</Value>
+    </Setting>
+    <Setting Name="pdf_in_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">T:\SCAN\QR_Code\Eplan</Value>
+    </Setting>
+    <Setting Name="tb_pdf_ok" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="tb_pdf_ko" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

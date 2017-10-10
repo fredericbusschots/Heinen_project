@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "QR_decode", "QR_decode\QR_decode.vbproj", "{64D8ED88-ED39-4029-AD4A-F2F826D5FB23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Copy_file_scan", "Copy_file_scan\Copy_file_scan.csproj", "{BD1E0CC1-69A0-4F8E-9BCC-E7D512A46767}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64D8ED88-ED39-4029-AD4A-F2F826D5FB23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D8ED88-ED39-4029-AD4A-F2F826D5FB23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D8ED88-ED39-4029-AD4A-F2F826D5FB23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D8ED88-ED39-4029-AD4A-F2F826D5FB23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD1E0CC1-69A0-4F8E-9BCC-E7D512A46767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1E0CC1-69A0-4F8E-9BCC-E7D512A46767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1E0CC1-69A0-4F8E-9BCC-E7D512A46767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1E0CC1-69A0-4F8E-9BCC-E7D512A46767}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

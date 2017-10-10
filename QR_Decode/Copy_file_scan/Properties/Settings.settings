@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Copy_file_scan.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="file_in" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\ged2\alfresco\Heinen\QRCode_TEMP</Value>
+    </Setting>
+    <Setting Name="file_out1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\ged2\alfresco\Heinen\QRCode</Value>
+    </Setting>
+    <Setting Name="file_out2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\TEST_QRCODE\scan_in</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
